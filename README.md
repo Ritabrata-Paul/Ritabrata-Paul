@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://www.linkedin.com/in/ritabrata-paul-23a75919a/)
 <h1 align="center">Hi 👋, I'm Ritabrata Paul</h1>
 <h3 align="center">I am a Full Stack Developer and having 2+ years of technical experience working with Frontend as well as Backend and over 3+ years of experience in IT . I am been to work more on future technologies like Web.3 & ASP.NET etc. Strong operations professional with a Graduation focused in B.Tech, Computer Science from University of Engineering & Management (UEM), Jaipur.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<img align="middle" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritabrata-paul&label=Profile%20views&color=0e75b6&style=flat" alt="ritabrata-paul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabrata-paul" alt="ritabrata-paul" /></a> </p>
