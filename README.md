@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Waocart-Ecommerce](https://github.com/Ritabrata-Paul/Waocart-Ecommerce)
 
-- 🌱 I’m currently learning **Web3, Web2**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ritabrata-Paul](https://github.com/Ritabrata-Paul)
 
