@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ritabrata-Paul](https://github.com/Ritabrata-Paul)
 
-- 💬 Ask me about **Portfolio**
+- 💬 Ask me about **Portfolio**(https://drive.google.com/drive/folders/1pe354NF12oxYRLN-Kjy3dHcQncBKCSPo)
 
 - 📫 How to reach me **ritabrata720@gmail.com**
 
