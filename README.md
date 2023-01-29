@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabrata-paul" alt="ritabrata-paul" /></a> </p>
 
-- 🔭 I’m currently working on [Waocart-Ecommerce](https://github.com/Ritabrata-Paul/Waocart-Ecommerce)
+- 🔭 I’m currently working on [Medical Pager](https://github.com/Ritabrata-Paul/Waocart-Ecommerce)
 
 - 🌱 I’m currently learning **React Native**
 
