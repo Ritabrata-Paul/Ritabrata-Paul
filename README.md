@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Medical Pager](https://github.com/Ritabrata-Paul/Waocart-Ecommerce)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ritabrata-Paul](https://github.com/Ritabrata-Paul)
 
